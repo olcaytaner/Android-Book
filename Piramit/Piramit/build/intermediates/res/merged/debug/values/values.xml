@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/olcay/Dropbox%20(Isik%20University)/Mobile/Android/Piramit/Piramit/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="uygulamaAdi">Piramit</string>
+    <!-- From: file:/Users/olcay/Dropbox%20(Isik%20University)/Mobile/Android/Piramit/Piramit/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

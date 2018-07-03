@@ -1,0 +1,216 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Pisti" >
+    <ImageView
+        android:id="@+id/bilgisayarKart1"
+        android:layout_width="50dp"
+        android:layout_height="72dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="24dp"
+        android:contentDescription="@string/bilgisayarKart"
+        android:src="@drawable/bos"
+        android:tag="4" />
+    <ImageView
+        android:id="@+id/bilgisayarKart2"
+        android:layout_width="50dp"
+        android:layout_height="72dp"
+        android:layout_alignTop="@+id/bilgisayarKart1"
+        android:layout_marginLeft="25dp"
+        android:layout_toRightOf="@+id/bilgisayarKart1"
+        android:contentDescription="@string/bilgisayarKart"
+        android:src="@drawable/bos"
+        android:tag="5" />
+    <ImageView
+        android:id="@+id/bilgisayarKart3"
+        android:layout_width="50dp"
+        android:layout_height="72dp"
+        android:layout_alignTop="@+id/bilgisayarKart2"
+        android:layout_marginLeft="25dp"
+        android:layout_toRightOf="@+id/bilgisayarKart2"
+        android:contentDescription="@string/bilgisayarKart"
+        android:src="@drawable/bos"
+        android:tag="6" />
+    <ImageView
+        android:id="@+id/bilgisayarKart4"
+        android:layout_width="50dp"
+        android:layout_height="72dp"
+        android:layout_alignTop="@+id/bilgisayarKart3"
+        android:layout_marginLeft="25dp"
+        android:layout_toRightOf="@+id/bilgisayarKart3"
+        android:contentDescription="@string/bilgisayarKart"
+        android:src="@drawable/bos"
+        android:tag="7" />
+    <ImageView
+        android:id="@+id/kart1"
+        android:layout_width="50dp"
+        android:layout_height="72dp"
+        android:layout_alignLeft="@+id/bilgisayarKart1"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="24dp"
+        android:contentDescription="@string/insanKart"
+        android:tag="0" />
+    <ImageView
+        android:id="@+id/kart2"
+        android:layout_width="50dp"
+        android:layout_height="72dp"
+        android:layout_alignLeft="@+id/bilgisayarKart2"
+        android:layout_alignTop="@+id/kart1"
+        android:contentDescription="@string/insanKart"
+        android:tag="1" />
+    <ImageView
+        android:id="@+id/kart3"
+        android:layout_width="50dp"
+        android:layout_height="72dp"
+        android:layout_alignTop="@+id/kart2"
+        android:layout_toLeftOf="@+id/bilgisayarKart4"
+        android:contentDescription="@string/insanKart"
+        android:tag="2" />
+    <ImageView
+        android:id="@+id/kart4"
+        android:layout_width="50dp"
+        android:layout_height="72dp"
+        android:layout_alignLeft="@+id/bilgisayarKart4"
+        android:layout_alignTop="@+id/kart3"
+        android:contentDescription="@string/insanKart"
+        android:tag="3" />
+    <ImageView
+        android:id="@+id/ortaKart"
+        android:layout_width="50dp"
+        android:layout_height="72dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:contentDescription="@string/insanKart"
+        android:tag="8" />
+    <ImageView
+        android:id="@+id/kapaliKart1"
+        android:layout_width="50dp"
+        android:layout_height="72dp"
+        android:layout_alignBottom="@+id/ortaKart"
+        android:layout_marginBottom="20dp"
+        android:layout_toRightOf="@+id/bilgisayarKart2"
+        android:contentDescription="@string/kapaliKart"
+        android:src="@drawable/bos"
+        android:tag="9" />
+    <ImageView
+        android:id="@+id/kapaliKart2"
+        android:layout_width="50dp"
+        android:layout_height="72dp"
+        android:layout_alignLeft="@+id/kapaliKart1"
+        android:layout_alignTop="@+id/kapaliKart1"
+        android:layout_marginLeft="9dp"
+        android:contentDescription="@string/kapaliKart"
+        android:src="@drawable/bos"
+        android:tag="10" />
+    <ImageView
+        android:id="@+id/kapaliKart3"
+        android:layout_width="50dp"
+        android:layout_height="72dp"
+        android:layout_alignLeft="@+id/kapaliKart2"
+        android:layout_alignTop="@+id/kapaliKart1"
+        android:layout_marginLeft="9dp"
+        android:contentDescription="@string/kapaliKart"
+        android:src="@drawable/bos"
+        android:tag="11" />
+    <ImageView
+        android:id="@+id/kapaliKart4"
+        android:layout_width="50dp"
+        android:layout_height="72dp"
+        android:layout_alignLeft="@+id/kapaliKart3"
+        android:layout_alignTop="@+id/kapaliKart1"
+        android:layout_marginLeft="9dp"
+        android:contentDescription="@string/kapaliKart"
+        android:src="@drawable/bos"
+        android:tag="12" />
+   <ImageView
+       android:id="@+id/kapaliKart5"
+       android:layout_width="50dp"
+       android:layout_height="72dp"
+       android:layout_alignLeft="@+id/kapaliKart4"
+       android:layout_alignTop="@+id/kapaliKart1"
+       android:layout_marginLeft="9dp"
+       android:contentDescription="@string/kapaliKart"
+       android:src="@drawable/bos"
+       android:tag="13" />    
+    <ImageView
+        android:id="@+id/kapaliKart6"
+        android:layout_width="50dp"
+        android:layout_height="72dp"
+        android:layout_alignLeft="@+id/kapaliKart5"
+        android:layout_alignTop="@+id/kapaliKart1"
+        android:layout_marginLeft="9dp"
+        android:contentDescription="@string/kapaliKart"
+        android:src="@drawable/bos"
+        android:tag="14" />
+    <ImageView
+        android:id="@+id/kapaliKart7"
+        android:layout_width="50dp"
+        android:layout_height="72dp"
+        android:layout_alignLeft="@+id/kapaliKart6"
+        android:layout_alignTop="@+id/kapaliKart1"
+        android:layout_marginLeft="9dp"
+        android:contentDescription="@string/kapaliKart"
+        android:src="@drawable/bos"
+        android:tag="15" />
+   <ImageView
+       android:id="@+id/kapaliKart8"
+       android:layout_width="50dp"
+       android:layout_height="72dp"
+       android:layout_alignLeft="@+id/kapaliKart7"
+       android:layout_alignTop="@+id/kapaliKart1"
+       android:layout_marginLeft="9dp"
+       android:contentDescription="@string/kapaliKart"
+       android:src="@drawable/bos"
+       android:tag="16" />    
+   <ImageView
+       android:id="@+id/kapaliKart9"
+       android:layout_width="50dp"
+       android:layout_height="72dp"
+       android:layout_alignLeft="@+id/kapaliKart8"
+       android:layout_alignTop="@+id/kapaliKart1"
+       android:layout_marginLeft="9dp"
+       android:contentDescription="@string/kapaliKart"
+       android:src="@drawable/bos"
+       android:tag="17" />    
+    <ImageView
+        android:id="@+id/kapaliKart10"
+        android:layout_width="50dp"
+        android:layout_height="72dp"
+        android:layout_alignLeft="@+id/kapaliKart9"
+        android:layout_alignTop="@+id/kapaliKart1"
+        android:layout_marginLeft="9dp"
+        android:contentDescription="@string/kapaliKart"
+        android:src="@drawable/bos"
+        android:tag="18" />
+    <ImageView
+        android:id="@+id/kapaliKart11"
+        android:layout_width="50dp"
+        android:layout_height="72dp"
+        android:layout_alignLeft="@+id/kapaliKart10"
+        android:layout_alignTop="@+id/kapaliKart1"
+        android:layout_marginLeft="9dp"
+        android:contentDescription="@string/kapaliKart"
+        android:src="@drawable/bos"
+        android:tag="19" />
+   <ImageView
+       android:id="@+id/kapaliKart12"
+       android:layout_width="50dp"
+       android:layout_height="72dp"
+       android:layout_alignLeft="@+id/kapaliKart11"
+       android:layout_alignTop="@+id/kapaliKart1"
+       android:layout_marginLeft="9dp"
+       android:contentDescription="@string/kapaliKart"
+       android:src="@drawable/bos"
+       android:tag="20" />
+   <ImageView
+       android:id="@+id/kapaliKart13"
+       android:layout_width="50dp"
+       android:layout_height="72dp"
+       android:layout_alignLeft="@+id/kapaliKart12"
+       android:layout_alignTop="@+id/kapaliKart1"
+       android:layout_marginLeft="9dp"
+       android:contentDescription="@string/kapaliKart"
+       android:src="@drawable/bos"
+       android:tag="21" />
+</RelativeLayout><!-- From: file:/Users/olcay/Dropbox/Mobile/Android/Pisti/Pisti/src/main/res/layout/ana_ekran.xml -->

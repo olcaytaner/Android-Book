@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uygulamaAdi">Film Arşivi</string>
+    <string name="filmListesi">Film Listesi</string>
+    <string name="filmEkle">Film Ekle</string>
+    <string name="turListesi">Tür Listesi</string>
+    <string name="turEkle">Tür Ekle</string>
+    <string name="yonetmenListesi">Yönetmen Listesi</string>
+    <string name="yonetmenEkle">Yönetmen Ekle</string>
+    <string name="ekle">Ekle</string>
+    <string name="ad">Ad</string>
+    <string name="turAd">Tür Adı</string>
+    <string name="soyad">Soyad</string>
+    <string name="sure">Süre</string>
+    <string name="yil">Yıl</string>
+    <string name="tur">Tür</string>
+    <string name="yonetmen">Yönetmen</string>
+    <string name="degisiklikleriKaydet">Değişiklikleri Kaydet</string>
+    <string name="sil">Sil</string>
+    <string name="geriDon">Geri Dön</string>
+</resources>

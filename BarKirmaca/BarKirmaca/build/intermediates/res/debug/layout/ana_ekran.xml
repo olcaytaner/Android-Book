@@ -1,0 +1,10 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <com.mobile.barkirmaca.Ekran
+            android:id="@+id/ekran"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>    
+</LinearLayout><!-- From: file:/Users/olcay/Dropbox/Mobile/Android/BarKirmaca/BarKirmaca/src/main/res/layout/ana_ekran.xml -->

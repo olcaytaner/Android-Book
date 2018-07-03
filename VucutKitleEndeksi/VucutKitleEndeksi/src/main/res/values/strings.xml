@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uygulamaAdi">Vücut Kitle Endeksi</string>
+    <string name="boy">Boy</string>
+    <string name="kilo">Kilo</string>
+    <string name="vke">VKE</string>
+    <string name="zayif">Zayıf</string>
+    <string name="normal">Normal</string>
+    <string name="hafifSisman">Hafif Şişman</string>
+    <string name="sisman">Şişman</string>
+    <string name="onemliDerecedeSisman">Önemli Derecede Şişman</string>
+    <string name="asiriSisman">Aşırı Şişman</string>
+    <string name="olumculSisman">Ölümcül Şişman</string>
+</resources>

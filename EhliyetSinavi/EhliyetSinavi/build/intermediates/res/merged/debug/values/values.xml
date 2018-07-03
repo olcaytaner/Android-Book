@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GridLayout"><attr name="orientation"><enum name="horizontal" value="0"/><enum name="vertical" value="1"/></attr><attr format="integer" name="rowCount"/><attr format="integer" name="columnCount"/><attr format="boolean" name="useDefaultMargins"/><attr name="alignmentMode"><enum name="alignBounds" value="0"/><enum name="alignMargins" value="1"/></attr><attr format="boolean" name="rowOrderPreserved"/><attr format="boolean" name="columnOrderPreserved"/></declare-styleable>
+    <declare-styleable name="GridLayout_Layout"><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_margin"/><attr name="android:layout_marginLeft"/><attr name="android:layout_marginTop"/><attr name="android:layout_marginRight"/><attr name="android:layout_marginBottom"/><attr format="integer" name="layout_row"/><attr format="integer" min="1" name="layout_rowSpan"/><attr format="integer" name="layout_column"/><attr format="integer" min="1" name="layout_columnSpan"/><attr name="layout_gravity"><flag name="top" value="0x30"/><flag name="bottom" value="0x50"/><flag name="left" value="0x03"/><flag name="right" value="0x05"/><flag name="center_vertical" value="0x10"/><flag name="fill_vertical" value="0x70"/><flag name="center_horizontal" value="0x01"/><flag name="fill_horizontal" value="0x07"/><flag name="center" value="0x11"/><flag name="fill" value="0x77"/><flag name="clip_vertical" value="0x80"/><flag name="clip_horizontal" value="0x08"/><flag name="start" value="0x00800003"/><flag name="end" value="0x00800005"/></attr></declare-styleable>
+    <!-- From: file:/Users/olcay/Dropbox%20(Isik%20University)/Mobile/Android/EhliyetSinavi/EhliyetSinavi/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/18.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="default_gap">16dip</dimen>
+    <!-- From: file:/Users/olcay/Dropbox%20(Isik%20University)/Mobile/Android/EhliyetSinavi/EhliyetSinavi/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="ilkYardim">İlk Yardım</string>
+    <string name="konular">Konular</string>
+    <string name="motor">Motor</string>
+    <string name="on">10</string>
+    <string name="sinavaGeriDon">Sınava Geri Dön</string>
+    <string name="sinaviYenidenBaslat">Sınavı Yeniden Başlat</string>
+    <string name="trafik">Trafik</string>
+    <string name="uygulamaAdi">Ehliyet Sınavı</string>
+    <!-- From: file:/Users/olcay/Dropbox%20(Isik%20University)/Mobile/Android/EhliyetSinavi/EhliyetSinavi/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

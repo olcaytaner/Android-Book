@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/src/main/assets"><file name="film.db" path="/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/src/main/assets/film.db"/></source></dataSet><dataSet config="debug"><source path="/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/src/debug/assets"/></dataSet></merger>

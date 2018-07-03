@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/build/intermediates/res/merged/debug/layout/tur_listesi.xml",
+        "source": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/src/main/res/layout/tur_listesi.xml"
+    },
+    {
+        "merged": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/build/intermediates/res/merged/debug/layout/yonetmen_listesi.xml",
+        "source": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/src/main/res/layout/yonetmen_listesi.xml"
+    },
+    {
+        "merged": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/build/intermediates/res/merged/debug/layout/ana_ekran.xml",
+        "source": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/src/main/res/layout/ana_ekran.xml"
+    },
+    {
+        "merged": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/build/intermediates/res/merged/debug/layout/tur_ekle.xml",
+        "source": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/src/main/res/layout/tur_ekle.xml"
+    },
+    {
+        "merged": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/build/intermediates/res/merged/debug/layout/film_degistir_sil.xml",
+        "source": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/src/main/res/layout/film_degistir_sil.xml"
+    },
+    {
+        "merged": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/build/intermediates/res/merged/debug/layout/yonetmen_hucre.xml",
+        "source": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/src/main/res/layout/yonetmen_hucre.xml"
+    },
+    {
+        "merged": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/build/intermediates/res/merged/debug/layout/film_hucre.xml",
+        "source": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/src/main/res/layout/film_hucre.xml"
+    },
+    {
+        "merged": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/build/intermediates/res/merged/debug/layout/tur_hucre.xml",
+        "source": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/src/main/res/layout/tur_hucre.xml"
+    },
+    {
+        "merged": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/build/intermediates/res/merged/debug/layout/yonetmen_ekle.xml",
+        "source": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/src/main/res/layout/yonetmen_ekle.xml"
+    },
+    {
+        "merged": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/build/intermediates/res/merged/debug/layout/film_listesi.xml",
+        "source": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/src/main/res/layout/film_listesi.xml"
+    },
+    {
+        "merged": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/build/intermediates/res/merged/debug/layout/film_ekle.xml",
+        "source": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/FilmArsivi/FilmArsivi/src/main/res/layout/film_ekle.xml"
+    }
+]

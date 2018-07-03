@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <TableRow
+        android:id="@+id/satir1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+        <CheckBox
+            android:id="@+id/trafik"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="1"
+            android:text="@string/trafik" />
+        <SeekBar
+            android:id="@+id/trafikGosterge"
+            android:layout_width="80pt"
+            android:layout_height="wrap_content"
+            android:tag="1" />
+        <TextView
+            android:id="@+id/trafikSayac"
+            android:layout_width="15pt"
+            android:layout_height="wrap_content"
+            android:text="@string/on"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+    </TableRow>
+    <TableRow
+        android:id="@+id/satir2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+        <CheckBox
+            android:id="@+id/motor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="2"
+            android:text="@string/motor" />        
+        <SeekBar
+            android:id="@+id/motorGosterge"
+            android:layout_width="70pt"
+            android:layout_height="wrap_content"
+            android:tag="2" />
+        <TextView
+            android:id="@+id/motorSayac"
+            android:layout_width="30pt"
+            android:layout_height="wrap_content"
+            android:text="@string/on"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+    </TableRow>
+    <TableRow
+        android:id="@+id/satir3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+        <CheckBox
+            android:id="@+id/ilkYardim"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="3"
+            android:text="@string/ilkYardim" />        
+        <SeekBar
+            android:id="@+id/ilkYardimGosterge"
+            android:layout_width="70pt"
+            android:layout_height="wrap_content"
+            android:tag="3" />
+        <TextView
+            android:id="@+id/ilkYardimSayac"
+            android:layout_width="30pt"
+            android:layout_height="wrap_content"
+            android:text="@string/on"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+    </TableRow>
+    <Button
+        android:id="@+id/sinaviYenidenBaslat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="17dp"
+        android:text="@string/sinaviYenidenBaslat" />
+    <Button
+        android:id="@+id/sinavaGeriDon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="17dp"
+        android:text="@string/sinavaGeriDon" />
+</TableLayout><!-- From: file:/Users/olcay/Dropbox/Mobile/Android/EhliyetSinavi/EhliyetSinavi/src/main/res/layout/konular.xml -->

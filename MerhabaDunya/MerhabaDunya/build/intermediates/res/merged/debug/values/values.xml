@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/olcay/Dropbox/Mobile/Android/MerhabaDunya/MerhabaDunya/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="merhabaDunya">Merhaba Dünya!</string>
+    <string name="uygulamaAdi">Merhaba Dunya</string>
+    <!-- From: file:/Users/olcay/Dropbox/Mobile/Android/MerhabaDunya/MerhabaDunya/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/Sozluk/Sozluk/build/intermediates/res/merged/debug/raw/turkish_dictionary.xml",
+        "source": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/Sozluk/Sozluk/src/main/res/raw/turkish_dictionary.xml"
+    },
+    {
+        "merged": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/Sozluk/Sozluk/build/intermediates/res/merged/debug/raw/english_turkish.xml",
+        "source": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/Sozluk/Sozluk/src/main/res/raw/english_turkish.xml"
+    }
+]

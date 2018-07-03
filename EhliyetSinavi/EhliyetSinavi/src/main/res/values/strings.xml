@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uygulamaAdi">Ehliyet Sınavı</string>
+    <string name="konular">Konular</string>
+    <string name="sinaviYenidenBaslat">Sınavı Yeniden Başlat</string>
+    <string name="trafik">Trafik</string>
+    <string name="motor">Motor</string>
+    <string name="ilkYardim">İlk Yardım</string>
+    <string name="on">10</string>
+    <string name="sinavaGeriDon">Sınava Geri Dön</string>
+</resources>

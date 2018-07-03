@@ -1,0 +1,66 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".VucutKitleEndeksi" >
+    <TextView
+        android:id="@+id/Boy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="36dp"
+        android:layout_marginTop="44dp"
+        android:text="@string/boy" />
+    <TextView
+        android:id="@+id/Kilo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/Boy"
+        android:layout_below="@+id/Boy"
+        android:layout_marginTop="44dp"
+        android:text="@string/kilo" />
+    <TextView
+        android:id="@+id/VKE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/Boy"
+        android:layout_below="@+id/Kilo"
+        android:layout_marginTop="49dp"
+        android:text="@string/vke" />
+    <TextView
+        android:id="@+id/Durum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/VKE"
+        android:layout_marginLeft="57dp"
+        android:layout_marginTop="58dp"
+        android:layout_toRightOf="@+id/VKE" />
+    <EditText
+        android:id="@+id/BoyGirdi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/Boy"
+        android:layout_alignBottom="@+id/Boy"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="21dp"
+        android:inputType="numberDecimal"
+        android:editable="false">
+        <requestFocus />
+    </EditText>
+    <EditText
+        android:id="@+id/KiloGirdi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/Kilo"
+        android:layout_alignBottom="@+id/Kilo"
+        android:layout_alignLeft="@+id/BoyGirdi"
+        android:inputType="number" />
+    <EditText
+        android:id="@+id/VKEGirdi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/VKE"
+        android:layout_alignBottom="@+id/VKE"
+        android:layout_alignLeft="@+id/KiloGirdi"/>
+</RelativeLayout>

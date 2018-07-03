@@ -1,0 +1,106 @@
+[
+    {
+        "outputFile": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/Sozluk/Sozluk/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 64,
+                    "endOffset": 115
+                },
+                "from": {
+                    "file": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/Sozluk/Sozluk/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 64,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 120,
+                    "endColumn": 48,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/Sozluk/Sozluk/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 48,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 46,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/Sozluk/Sozluk/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/Sozluk/Sozluk/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 662
+                },
+                "from": {
+                    "file": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/Sozluk/Sozluk/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

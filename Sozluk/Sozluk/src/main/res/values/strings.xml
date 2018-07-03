@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uygulamaAdi">Sözlük</string>
+    <string name="sozluk">Türkçe Sözlük</string>
+    <string name="ceviriSozluk">İngilizce Türkçe Sözlük</string>    
+</resources>

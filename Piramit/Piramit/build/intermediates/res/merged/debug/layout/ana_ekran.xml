@@ -1,0 +1,10 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Piramit" >
+        <com.mobile.piramit.Ekran
+            android:id="@+id/ekran"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>        
+</RelativeLayout><!-- From: file:/Users/olcay/Dropbox%20(Isik%20University)/Mobile/Android/Piramit/Piramit/src/main/res/layout/ana_ekran.xml -->

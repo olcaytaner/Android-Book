@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/Sozluk/Sozluk/build/intermediates/res/merged/debug/layout/sozluk_hucre.xml",
+        "source": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/Sozluk/Sozluk/src/main/res/layout/sozluk_hucre.xml"
+    },
+    {
+        "merged": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/Sozluk/Sozluk/build/intermediates/res/merged/debug/layout/ceviri_sozluk_hucre.xml",
+        "source": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/Sozluk/Sozluk/src/main/res/layout/ceviri_sozluk_hucre.xml"
+    },
+    {
+        "merged": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/Sozluk/Sozluk/build/intermediates/res/merged/debug/layout/ana_ekran.xml",
+        "source": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/Sozluk/Sozluk/src/main/res/layout/ana_ekran.xml"
+    },
+    {
+        "merged": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/Sozluk/Sozluk/build/intermediates/res/merged/debug/layout/ceviri_ekran.xml",
+        "source": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/Sozluk/Sozluk/src/main/res/layout/ceviri_ekran.xml"
+    },
+    {
+        "merged": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/Sozluk/Sozluk/build/intermediates/res/merged/debug/layout/sozluk_ekran.xml",
+        "source": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/Sozluk/Sozluk/src/main/res/layout/sozluk_ekran.xml"
+    }
+]

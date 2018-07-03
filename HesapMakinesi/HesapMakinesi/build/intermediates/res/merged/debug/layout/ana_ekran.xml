@@ -1,0 +1,173 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HesapMakinesi" >
+    <EditText
+        android:id="@+id/Sonuc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:ems="10"
+        android:enabled="false"
+        android:gravity="right"
+        android:inputType="none"
+        android:text="@string/sifir"/>
+    <Button
+        android:id="@+id/Dugme1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Sonuc"
+        android:text="@string/bir" />
+    <Button
+        android:id="@+id/Dugme2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/Dugme1"
+        android:layout_alignBottom="@+id/Dugme1"
+        android:layout_toRightOf="@+id/Dugme1"
+        android:text="@string/iki" />
+    <Button
+        android:id="@+id/Dugme3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/Dugme2"
+        android:layout_alignBottom="@+id/Dugme2"
+        android:layout_toRightOf="@+id/Dugme2"
+        android:text="@string/uc" />
+    <Button
+        android:id="@+id/DugmeArti"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/Dugme3"
+        android:layout_alignBottom="@+id/Dugme3"
+        android:layout_toRightOf="@+id/Dugme3"
+        android:text="@string/arti" />
+    <Button
+        android:id="@+id/DugmeHafizayaEkle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/DugmeArti"
+        android:layout_alignBottom="@+id/DugmeArti"
+        android:layout_toRightOf="@+id/DugmeArti"
+        android:text="@string/hafizaArti" />
+    <Button
+        android:id="@+id/Dugme4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Dugme1"
+        android:layout_toLeftOf="@+id/Dugme2"
+        android:text="@string/dort" />
+    <Button
+        android:id="@+id/Dugme5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/Dugme4"
+        android:layout_alignBottom="@+id/Dugme4"
+        android:layout_toRightOf="@+id/Dugme4"
+        android:text="@string/bes" />
+    <Button
+        android:id="@+id/Dugme6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/Dugme5"
+        android:layout_alignBottom="@+id/Dugme5"
+        android:layout_toRightOf="@+id/Dugme5"
+        android:text="@string/alti" />
+    <Button
+        android:id="@+id/DugmeEksi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/Dugme6"
+        android:layout_toLeftOf="@+id/DugmeHafizayaEkle"
+        android:text="@string/eksi" />
+    <Button
+        android:id="@+id/DugmeHafizadanCikar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/DugmeEksi"
+        android:layout_alignBottom="@+id/DugmeEksi"
+        android:layout_toRightOf="@+id/DugmeEksi"
+        android:text="@string/hafizaEksi" />
+    <Button
+        android:id="@+id/Dugme7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Dugme4"
+        android:layout_toLeftOf="@+id/Dugme5"
+        android:text="@string/yedi" />
+    <Button
+        android:id="@+id/Dugme8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/Dugme7"
+        android:layout_alignBottom="@+id/Dugme7"
+        android:layout_toRightOf="@+id/Dugme7"
+        android:text="@string/sekiz" />
+    <Button
+        android:id="@+id/Dugme9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/Dugme8"
+        android:layout_alignBottom="@+id/Dugme8"
+        android:layout_toRightOf="@+id/Dugme8"
+        android:text="@string/dokuz" />
+    <Button
+        android:id="@+id/DugmeCarpi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/Dugme9"
+        android:layout_alignBottom="@+id/Dugme9"
+        android:layout_toLeftOf="@+id/DugmeHafizadanCikar"
+        android:text="@string/carpi" />
+    <Button
+        android:id="@+id/DugmeHafizayiGoster"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/DugmeCarpi"
+        android:layout_alignBottom="@+id/DugmeCarpi"
+        android:layout_toRightOf="@+id/DugmeCarpi"
+        android:text="@string/hafizaGoster" />
+    <Button
+        android:id="@+id/Dugme0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Dugme7"
+        android:text="@string/sifir" />
+    <Button
+        android:id="@+id/DugmeSil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/Dugme0"
+        android:layout_alignBottom="@+id/Dugme0"
+        android:layout_toRightOf="@+id/Dugme0"
+        android:text="@string/sil" />
+    <Button
+        android:id="@+id/DugmeEsit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/DugmeSil"
+        android:layout_alignBottom="@+id/DugmeSil"
+        android:layout_toRightOf="@+id/DugmeSil"
+        android:text="@string/esit" />
+    <Button
+        android:id="@+id/DugmeBolu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/DugmeEsit"
+        android:layout_alignBottom="@+id/DugmeEsit"
+        android:layout_toRightOf="@+id/DugmeEsit"
+        android:text="@string/bolu" />
+    <Button
+        android:id="@+id/DugmeHafizayiSil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/DugmeBolu"
+        android:layout_alignBottom="@+id/DugmeBolu"
+        android:layout_toRightOf="@+id/DugmeBolu"
+        android:text="@string/hafizaSil" />
+</RelativeLayout><!-- From: file:/Users/olcay/Dropbox/Mobile/Android/HesapMakinesi/HesapMakinesi/src/main/res/layout/ana_ekran.xml -->

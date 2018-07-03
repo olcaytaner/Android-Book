@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Piramit" external.linked.project.path="$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit" external.root.project.path="$MODULE_DIR$/.." external.system.id="GRADLE" external.system.module.group="Piramit" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":Piramit" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="SELECTED_TEST_ARTIFACT" value="_android_test_" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <option name="ASSEMBLE_TEST_TASK_NAME" value="assembleDebugAndroidTest" />
+        <option name="COMPILE_JAVA_TEST_TASK_NAME" value="compileDebugAndroidTestSources" />
+        <afterSyncTasks>
+          <task>generateDebugAndroidTestSources</task>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../.. (Isik University)/Mobile/Android/Piramit/Piramit/src/main/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6" inherit-compiler-output="false">
+    <output url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/intermediates/classes/debug" />
+    <output-test url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/intermediates/classes/androidTest/debug" />
+    <exclude-output />
+    <content url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit">
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/generated/source/r/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/generated/source/aidl/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/generated/source/rs/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/generated/res/rs/debug" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/generated/res/resValues/debug" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/generated/source/r/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/generated/source/aidl/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/generated/source/buildConfig/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/generated/source/rs/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/generated/res/rs/androidTest/debug" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/generated/res/resValues/androidTest/debug" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/src/debug/res" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/src/debug/resources" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/src/debug/assets" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/src/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/src/debug/jni" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/src/debug/rs" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/src/main/assets" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/src/main/jni" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/src/androidTest/res" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/src/androidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/src/androidTest/assets" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/src/androidTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/src/androidTest/jni" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/src/androidTest/rs" isTestSource="true" />
+      <excludeFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/intermediates/assets" />
+      <excludeFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/intermediates/classes" />
+      <excludeFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/intermediates/debug" />
+      <excludeFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/intermediates/dependency-cache" />
+      <excludeFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/intermediates/dex" />
+      <excludeFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/intermediates/incremental" />
+      <excludeFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/intermediates/manifests" />
+      <excludeFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/intermediates/pre-dexed" />
+      <excludeFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/intermediates/res" />
+      <excludeFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/intermediates/resources" />
+      <excludeFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/intermediates/rs" />
+      <excludeFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/intermediates/symbols" />
+      <excludeFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/intermediates/tmp" />
+      <excludeFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/outputs" />
+      <excludeFolder url="file://$USER_HOME$/Dropbox (Isik University)/Mobile/Android/Piramit/Piramit/build/tmp" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 17 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="support-v4-18.0.0" level="project" />
+  </component>
+</module>

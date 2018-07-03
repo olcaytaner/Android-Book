@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/olcay/Dropbox/Mobile/Android-Studio/BarKirmaca/BarKirmaca/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="307c1cc532eabbf1d135b43e5c983c9da700449d">
+        <dex dex="/Users/olcay/Dropbox/Mobile/Android-Studio/BarKirmaca/BarKirmaca/build/intermediates/pre-dexed/debug/android-support-v4-c2481a12abefc5cbfe31447f3cde08d4b7180034.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uygulamaAdi">Pişti</string>
+    <string name="bilgisayarKart">Bilgisayar Kart</string>
+    <string name="insanKart">İnsan Kart</string>
+    <string name="kapaliKart">Kapalı Kart</string>    
+</resources>

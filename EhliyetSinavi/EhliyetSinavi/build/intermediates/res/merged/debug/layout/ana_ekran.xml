@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AnaEkran" >
+    <EditText
+        android:id="@+id/soru"
+        android:layout_marginTop="5pt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textMultiLine" >
+        <requestFocus />
+    </EditText>
+    <Button
+        android:id="@+id/cevap1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left|center_vertical"
+        android:tag="1" />
+    <Button
+        android:id="@+id/cevap2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left|center_vertical"
+        android:tag="2" />
+    <Button
+        android:id="@+id/cevap3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left|center_vertical"
+        android:tag="3" />
+    <Button
+        android:id="@+id/cevap4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left|center_vertical"
+        android:tag="4" />
+    <Button
+        android:id="@+id/konular"
+        android:layout_marginTop="20pt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/konular" />
+    <Button
+        android:id="@+id/sinaviBaslat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sinaviYenidenBaslat" />
+</LinearLayout><!-- From: file:/Users/olcay/Dropbox%20(Isik%20University)/Mobile/Android/EhliyetSinavi/EhliyetSinavi/src/main/res/layout/ana_ekran.xml -->

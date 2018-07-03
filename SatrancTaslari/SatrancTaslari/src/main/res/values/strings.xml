@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uygulamaAdi">Satranç Taşları</string>
+    <string name="kontrol">Kontrol</string>
+    <string name="yeniOyun">Yeni Oyun</string>
+    <string name="coz">Çöz</string>        
+</resources>

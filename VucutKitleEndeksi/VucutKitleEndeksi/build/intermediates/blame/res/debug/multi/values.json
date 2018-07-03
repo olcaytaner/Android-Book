@@ -1,0 +1,258 @@
+[
+    {
+        "outputFile": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/VucutKitleEndeksi/VucutKitleEndeksi/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/VucutKitleEndeksi/VucutKitleEndeksi/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endColumn": 52,
+                        "endOffset": 522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 35,
+                    "endOffset": 139
+                },
+                "from": {
+                    "file": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/VucutKitleEndeksi/VucutKitleEndeksi/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 35,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 144,
+                    "endColumn": 52,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/VucutKitleEndeksi/VucutKitleEndeksi/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 307,
+                        "endColumn": 52,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endColumn": 37,
+                    "endOffset": 230
+                },
+                "from": {
+                    "file": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/VucutKitleEndeksi/VucutKitleEndeksi/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 37,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 235,
+                    "endColumn": 41,
+                    "endOffset": 272
+                },
+                "from": {
+                    "file": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/VucutKitleEndeksi/VucutKitleEndeksi/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 41,
+                        "endOffset": 302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 277,
+                    "endColumn": 56,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/VucutKitleEndeksi/VucutKitleEndeksi/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 527,
+                        "endColumn": 56,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 334,
+                    "endColumn": 71,
+                    "endOffset": 401
+                },
+                "from": {
+                    "file": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/VucutKitleEndeksi/VucutKitleEndeksi/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 71,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 406,
+                    "endColumn": 41,
+                    "endOffset": 443
+                },
+                "from": {
+                    "file": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/VucutKitleEndeksi/VucutKitleEndeksi/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 360,
+                        "endColumn": 41,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 448,
+                    "endColumn": 59,
+                    "endOffset": 503
+                },
+                "from": {
+                    "file": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/VucutKitleEndeksi/VucutKitleEndeksi/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 59,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 508,
+                    "endColumn": 35,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/VucutKitleEndeksi/VucutKitleEndeksi/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 35,
+                        "endOffset": 220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 39,
+                    "endOffset": 579
+                },
+                "from": {
+                    "file": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/VucutKitleEndeksi/VucutKitleEndeksi/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endColumn": 39,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 584,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 870
+                },
+                "from": {
+                    "file": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/VucutKitleEndeksi/VucutKitleEndeksi/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1030
+                },
+                "from": {
+                    "file": "/Users/olcay/Dropbox (Isik University)/Mobile/Android/VucutKitleEndeksi/VucutKitleEndeksi/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

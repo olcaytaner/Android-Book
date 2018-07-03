@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   <item android:id="@+id/kontrol"
+      android:title="@string/kontrol" 
+      android:orderInCategory="1"></item>
+   <item android:id="@+id/yenioyun" 
+      android:title="@string/yeniOyun"
+      android:orderInCategory="2"></item>
+   <item android:id="@+id/coz" 
+      android:title="@string/coz"
+      android:orderInCategory="3"></item>
+</menu>
+<!-- From: file:/Users/olcay/Dropbox/Mobile/Android/SatrancTaslari/SatrancTaslari/src/main/res/menu/opsiyon.xml -->
